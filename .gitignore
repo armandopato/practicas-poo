@@ -1,4 +1,6 @@
 *.zip
 .idea
-__pycache__
 *.docx
+out
+*.jar
+*.class
